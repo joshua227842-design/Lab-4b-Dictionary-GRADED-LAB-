@@ -22,4 +22,4 @@ print(car_info)
 print("Model:", car_info["model"])
 print("Year:", car_info["year"])
 
- ```pyyhon
+ ```
